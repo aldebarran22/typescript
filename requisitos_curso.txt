@@ -1,0 +1,25 @@
+Node.js: Entorno de ejecución para javascript
+https://nodejs.org/es
+
+Desde una consola probar:
+node -v (muestra la versión instalada)
+
+npm -v (la versión del instalador de paquetes, se incluye en node)
+
+Instalar typescript (desde una consola):
+npm install -g typescript
+
+Comprobar que se ha instalado typescript:
+npm -g list
+
+Y comprobar el comando: tsc --version
+
+
+Instalar Visual Studio Code:
+https://code.visualstudio.com/download
+
+Extensiones para Code: typescript
+
+
+
+
